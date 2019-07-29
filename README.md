@@ -4,7 +4,7 @@
 
 - [Step 1: Create your project Repository](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/blob/master/README.md#step-1-create-your-project-repository)
 - [Step 2: Update your Repository README file using our Project README template](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/blob/master/README.md#step-2-update-your-repository-readme-file-using-our-project-readme-template)
-- [Step 3: Create a Directory folder in your project Repository to house supporting documentation](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/blob/master/README.md#step-3-create-a-directory-folder-in-your-project-repository-to-house-supporting-documentation)
+- [Step 3: Create a Directory folder in your project Repository in support of Wiki documentation](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/blob/master/README.md#step-3-create-a-directory-folder-in-your-project-repository-to-house-supporting-documentation)
 - [Step 4: Review Best Practices](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/blob/master/README.md#step-4-review-best-practices)
 
 
