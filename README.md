@@ -2,10 +2,10 @@
 
 ## Please ask 1 member of your project team to complete the following steps.
 
-- [Step 1: Create your project Repository](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/blob/master/README.md#step-1-create-your-project-repository)
-- [Step 2: Update your Repository README file using our Project README template](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/blob/master/README.md#step-2-update-your-repository-readme-file-using-our-project-readme-template)
-- [Step 3: Create a Directory folder in your project Repository in support of Wiki documentation](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/blob/master/README.md#step-3-create-a-directory-folder-in-your-project-repository-to-house-supporting-documentation)
-- [Step 4: Review Best Practices](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/blob/master/README.md#step-4-review-best-practices)
+- [Step 1: Create your project Repository](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-1-create-your-project-repository)
+- [Step 2: Update your Repository README file using our Project README template](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-2-update-your-repository-readme-file-using-our-project-readme-template)
+- [Step 3: Create a Directory folder in your project Repository in support of Wiki documentation](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-3-create-a-directory-folder-in-your-project-repository-in-support-of-wiki-documentation)
+- [Step 4: Review Best Practices](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-4-review-best-practices)
 
 
 ### Step 1: Create your project Repository
@@ -26,7 +26,7 @@
 4. Click the Create Repository button<br>
 
 
-### Step 2: Update your Repository README file using our [Project README template](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/wiki/Project-README.md-file-template)
+### Step 2: Update your Repository README file using our [Project README template](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki/Project-README.md-file-template)
 > A README is the start of your projects documentation on GitHub. Documenting any open source project should always begin with a good README so that potential users can understand what your work is about.
 
 After you copy and paste the template into your Project's README.md file be sure to do the following:
@@ -59,7 +59,7 @@ After you copy and paste the template into your Project's README.md file be sure
 ### Step 4: Review Best Practices
 
 :point_right: __Your Project's README file must be kept up to date.__<br> 
-Doing so ensures that anyone reviewing your project repositiory (during or after the Sprint) understands the current state of your project which supports trust, transparency, and collaboration from the open source community. Review our __[Sample README file](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/wiki/Sample-Sprint-Project-README.md-file:-Admin-Soft-Skills)__ as a reference.
+Doing so ensures that anyone reviewing your project repositiory (during or after the Sprint) understands the current state of your project which supports trust, transparency, and collaboration from the open source community. Review our __[Sample README filehttps://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki/Sample-Sprint-Project-README.md-file)__ as a reference.
 
 :point_right: __Markdown is your friend for text style formatting__<br>
 When editing your README.md file (or any file that ends with .md or .markdown) you will be using Markdown language. Be sure to access the __[Mastering Markdown Github guide](https://guides.github.com/features/mastering-markdown/)__ to help you understand the different formatting options that are available.
@@ -70,6 +70,5 @@ Every GitHub repository comes equipped with a section for hosting documentation,
 :point_right: __Create a new branch for all future Commits to avoid overwriting the work of others__<br>
 For the duration of the Sprint there will be changes you and your team make to files that live in your project's repository. On that note, when making edits to files in your repository, you will want to commit those changes to a new branch followed by __[Creating a Pull Request](https://help.github.com/en/articles/creating-a-pull-request)__.
 
-:point_right: __Use the Welcome [Wiki](https://github.com/SFDO-Sprint-2019-Detroit/Welcome/wiki) for helpful tips & tricks!__<br>
+:point_right: __Use the Welcome [Wiki](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki) for helpful tips & tricks!__<br>
 The Wiki provides links to a list of resources to help you navigate through your Sprint experience in Github.
-
