@@ -16,8 +16,8 @@
 3. From the Create a new repository page fill in the requested information
 
 > __Here is an Example:__<br><br>
-> __Repository name:__ Admin Soft Skills<br>
-> __Description:__ Develop standardized Salesforce System Administrator and Business Analyst job descriptions<br>
+> __Repository name:__ Transfer Equivalency<br>
+> __Description:__ Functionality to search for course and credit transfer equivalency between institutions<br>
 > __Public Repo__ = true<br>
 > __Initialize this repository with a README__ = true<br>
 > __Add .gitignore: None__ (leave this as is)<br>
@@ -59,7 +59,7 @@ After you copy and paste the template into your Project's README.md file be sure
 ### Step 4: Review Best Practices
 
 :point_right: __Your Project's README file must be kept up to date.__<br> 
-Doing so ensures that anyone reviewing your project repositiory (during or after the Sprint) understands the current state of your project which supports trust, transparency, and collaboration from the open source community. Review our __[Sample README filehttps://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki/Sample-Sprint-Project-README.md-file)__ as a reference.
+Doing so ensures that anyone reviewing your project repositiory (during or after the Sprint) understands the current state of your project which supports trust, transparency, and collaboration from the open source community. Review our __[Sample README file](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki/Sample-Sprint-Project-README.md-file)__ as a reference.
 
 :point_right: __Markdown is your friend for text style formatting__<br>
 When editing your README.md file (or any file that ends with .md or .markdown) you will be using Markdown language. Be sure to access the __[Mastering Markdown Github guide](https://guides.github.com/features/mastering-markdown/)__ to help you understand the different formatting options that are available.
