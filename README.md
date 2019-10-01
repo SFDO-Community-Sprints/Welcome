@@ -1,6 +1,6 @@
-# Welcome Sprinters!
+# Welcome Github Scribes!
 
-## Please ask 1 member of your project team to complete the following steps.
+## Please complete the following steps for your individual project:
 
 - [Step 1: Create your project Repository](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-1-create-your-project-repository)
 - [Step 2: Update your Repository README file using our Project README template](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-2-update-your-repository-readme-file-using-our-project-readme-template)
@@ -66,9 +66,6 @@ When editing your README.md file (or any file that ends with .md or .markdown) y
 
 :point_right: __Use your project repository Wiki to store your project documentation__<br>
 Every GitHub repository comes equipped with a section for hosting documentation, called a wiki. You can use your repository's wiki to share long-form content about your project, such as how to use it, how you designed it, or its core principles. A README file quickly tells what your project can do, while you can use a wiki to provide additional documentation. Take a look at Github's __[About wikis page](https://help.github.com/en/articles/about-wikis)__ for more information.
-
-:point_right: __Create a new branch for all future Commits to avoid overwriting the work of others__<br>
-For the duration of the Sprint there will be changes you and your team make to files that live in your project's repository. On that note, when making edits to files in your repository, you will want to commit those changes to a __[new branch](https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository)__ followed by __[creating a Pull Request](https://help.github.com/en/articles/creating-a-pull-request)__.
 
 :point_right: __Use the Welcome [Wiki](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki) for helpful tips & tricks!__<br>
 The Wiki provides links to a list of resources to help you navigate through your Sprint experience in Github.
