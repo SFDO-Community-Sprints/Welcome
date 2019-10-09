@@ -1,6 +1,12 @@
 # Welcome Github Scribes!
 
-## Please complete the following steps for your individual project:
+What is a Github Scribe? A Github Scribe is a single member of a project team who will be responsible for creating your projects Github repository for the Philadelphia Sprint. The Scribe will also be responsible for keeping the project repository up-to-date for the duration of the Sprint. We will jump into the selection of Scribes before Lunch on Day 1 of the Sprint so for now there is no action you need to take.
+
+## Past Project Work
+
+Before you complete the steps below be sure to take a look at the Project Work stemming from the Detroit Sprint! https://github.com/SFDO-Sprint-2019-Detroit If your team is interested in supporting any of the project work you see there please let a Salesforce.org member know so we can get your access setup.
+
+## Scribes: Please complete the following steps for your Teams project:
 
 - [Step 1: Create your project Repository](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-1-create-your-project-repository)
 - [Step 2: Update your Repository README file using our Project README template](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-2-update-your-repository-readme-file-using-our-project-readme-template)
