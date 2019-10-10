@@ -41,7 +41,7 @@ Before you complete the steps below be sure to take a look at the Project Work s
 
 ### Step 3: Review Best Practices:
 
-:eyes: __Watch your Project's repo!__ <br>
+:eyes: __We HIGHLY recommend that you and your prjoect team watch your Project's repo!__ <br>
 Watching your projects repository allows you to receive notifications for new pull requests and issues that are created. Click __[here](https://help.github.com/en/articles/watching-and-unwatching-repositories#watching-a-single-repository)__ to learn more!
 
 :point_right: __Your Project's README file needs to be kept up to date both during and after the Sprint so that we know what you worked on in Philly, and who was on the team.__<br> 
