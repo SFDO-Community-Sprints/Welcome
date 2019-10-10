@@ -10,7 +10,7 @@ Before you complete the steps below be sure to take a look at the Project Work s
 
 - [Step 1: Create your project Repository](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-1-create-your-project-repository)
 - [Step 2: Update your Repository README file using our Project README template](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-2-update-your-repository-readme-file-using-our-project-readme-template)
-- [Step 3: Create a Directory folder in your project Repository in support of Wiki documentation](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-3-create-a-directory-folder-in-your-project-repository-in-support-of-wiki-documentation)
+- [Step 3: Create a Directory folder in your project Repository in support of Wiki images](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-3-create-a-directory-folder-in-your-project-repository-in-support-of-wiki-images)
 - [Step 4: Review Best Practices](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-4-review-best-practices)
 
 
@@ -39,7 +39,7 @@ Before you complete the steps below be sure to take a look at the Project Work s
 
 ***
 
-### Step 3: Create a Directory folder in your project Repository in support of Wiki documentation.
+### Step 3: Create a Directory folder in your project Repository in support of Wiki images
 > You will use this directory to stores images (if any) for use with your repo's Wiki.
 
 1. From your Project's repository click on Create new file
