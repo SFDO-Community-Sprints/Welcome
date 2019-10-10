@@ -4,7 +4,7 @@ What is a Github Scribe? A Github Scribe is a single member of a project team wh
 
 ## Past Project Work
 
-Before you complete the steps below be sure to take a look at the Project Work stemming from the Detroit Sprint! __https://github.com/SFDO-Sprint-2019-Detroit__ If your team is interested in supporting any of the project work you see there please let a Salesforce.org member know so we can get your access setup.
+Before you complete the steps below be sure to take a look at the Project Work stemming from the Detroit Sprint! __https://github.com/SFDO-Sprint-2019-Detroit__ If your team is interested in supporting any of the project work you see there please let a Salesforce.org member know so we can get your access set up.
 
 ## Scribes: Please complete the following steps for your Team project
 
