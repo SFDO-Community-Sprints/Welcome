@@ -41,20 +41,20 @@ Before you complete the steps below be sure to take a look at the Project Work s
 
 ### Step 3: Review Best Practices:
 
-:eyes: __We HIGHLY recommend that you and your prjoect team watch your Project's repo!__ <br>
-Watching your projects repository allows you to receive notifications for new pull requests and issues that are created. Click __[here](https://help.github.com/en/articles/watching-and-unwatching-repositories#watching-a-single-repository)__ to learn more!
+:point_right: __We HIGHLY recommend that you and your project team Watch your Project's repo!__ <br>
+Watching your projects repository allows you to receive notifications for new pull requests and issues that are created. Please ensure all members of the project team complete this step. Click __[here](https://help.github.com/en/articles/watching-and-unwatching-repositories#watching-a-single-repository)__ to learn more!
 
 :point_right: __Your Project's README file needs to be kept up to date both during and after the Sprint so that we know what you worked on in Philly, and who was on the team.__<br> 
 Doing so ensures that anyone reviewing your project repositiory (during or after the Sprint) understands the current state of your project which supports trust, transparency, and collaboration from the open source community. Review our __[Sample README file](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki/Sample-Sprint-Project-README.md-file)__ as a reference.
-
-:point_right: __Markdown is your friend for text style formatting__<br>
-When editing your README.md file (or any file that ends with .md or .markdown) you will be using Markdown language. Be sure to access the __[Mastering Markdown Github guide](https://guides.github.com/features/mastering-markdown/)__ to help you understand the different formatting options that are available.
 
 :point_right: __Use your project repository Wiki to store your project documentation__<br>
 Every GitHub repository comes equipped with a section for hosting documentation, called a wiki. You can use your repository's wiki to share long-form content about your project, such as how to use it, how you designed it, or its core principles. A README file quickly tells what your project can do, while you can use a wiki to provide additional documentation. Take a look at Github's __[About wikis page](https://help.github.com/en/articles/about-wikis)__ for more information.
 
 :point_right: __Use the Welcome [Wiki](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki) for helpful tips & tricks!__<br>
 The Wiki provides links to a list of resources to help you navigate through your Sprint experience in Github.
+
+:point_right: __Markdown is your friend for text style formatting__<br>
+When editing your README.md file (or any file that ends with .md or .markdown) you will be using Markdown language. Be sure to access the __[Mastering Markdown Github guide](https://guides.github.com/features/mastering-markdown/)__ to help you understand the different formatting options that are available.
 
 :boom: __Accidentily deleted your repo? No problem!__<br>
 Click __[here](https://support.github.com/contact)__ to get help from Github Support.
