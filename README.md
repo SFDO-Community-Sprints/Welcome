@@ -10,8 +10,8 @@ Before you complete the steps below be sure to take a look at the Project Work s
 
 - [Step 1: Create your project Repository](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-1-create-your-project-repository)
 - [Step 2: Update your Repository README file using our Project README template](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-2-update-your-repository-readme-file-using-our-project-readme-template)
-- [Step 3: Create a Directory folder in your project Repository in support of Wiki images](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-3-create-a-directory-folder-in-your-project-repository-in-support-of-wiki-images)
-- [Step 4: Review Best Practices](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-4-review-best-practices)
+- [Step 3: Review Best Practices](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-3-review-best-practices)
+- [Optional: Create a Directory folder in your project Repository in support of Wiki images](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#optional-create-a-directory-folder-in-your-project-repository-in-support-of-wiki-images)
 
 
 ### Step 1: Create your project Repository
@@ -39,22 +39,7 @@ Before you complete the steps below be sure to take a look at the Project Work s
 
 ***
 
-### Step 3: Create a Directory folder in your project Repository in support of Wiki images
-> You will use this directory to stores images (if any) for use with your repo's Wiki.
-
-1. From your Project's repository click on Create new file
-2. Type in the name of the Directory you want to create follwed by a slash (/) follwed by the name of the file that will identify what types of information will be housed here
-> __Here is an Example:__<br>
-> Wiki Documentation/Images.md
-3. In the Edit new file tab add the following message: "This directory will be used to store images in support of wiki documentation efforts."
-4. Add a message in the *Commit new file* section at the bottom of the file
-> __Here is an Example:__<br>
-> Wiki Images Directory <br>
-> Created a Documentation directory to store images for the wiki
-5. Commit Changes when done
-***
-
-### Step 4: Review Best Practices
+### Step 3: Review Best Practices
 
 :point_right: __Your Project's README file must be kept up to date.__<br> 
 Doing so ensures that anyone reviewing your project repositiory (during or after the Sprint) understands the current state of your project which supports trust, transparency, and collaboration from the open source community. Review our __[Sample README file](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki/Sample-Sprint-Project-README.md-file)__ as a reference.
@@ -70,3 +55,19 @@ The Wiki provides links to a list of resources to help you navigate through your
 
 :boom: __Deleted your repo? No problem!__<br>
 Click __[here](https://support.github.com/contact)__ to get help from Github Support.
+
+### Optional: Create a Directory folder in your project Repository in support of Wiki images
+> You will use this directory to stores images (if any) for use with your repo's Wiki.
+
+1. From your Project's repository click on Create new file
+2. Type in the name of the Directory you want to create follwed by a slash (/) follwed by the name of the file that will identify what types of information will be housed here
+> __Here is an Example:__<br>
+> Wiki Documentation/Images.md
+3. In the Edit new file tab add the following message: "This directory will be used to store images in support of wiki documentation efforts."
+4. Add a message in the *Commit new file* section at the bottom of the file
+> __Here is an Example:__<br>
+> Wiki Images Directory <br>
+> Created a Documentation directory to store images for the wiki
+5. Commit Changes when done
+***
+
