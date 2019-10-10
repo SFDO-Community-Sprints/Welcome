@@ -22,12 +22,8 @@ Before you complete the steps below be sure to take a look at the Project Work s
 3. From the Create a new repository page fill in the requested information
 
 > __Here is an Example:__<br><br>
-> __Repository name:__ Transfer Equivalency<br>
-> __Description:__ Functionality to search for course and credit transfer equivalency between institutions<br>
-> __Public Repo__ = true<br>
-> __Initialize this repository with a README__ = true<br>
-> __Add .gitignore: None__ (leave this as is)<br>
-> __Add a license__ = BSD 3-Clause "New" or "Revised" License <br>
+
+![Image of Philly Repo.jpg](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/blob/master/images/PhillyRepo.jpg)
 
 4. Click the Create Repository button<br>
 
