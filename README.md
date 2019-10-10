@@ -71,3 +71,6 @@ Every GitHub repository comes equipped with a section for hosting documentation,
 
 :point_right: __Use the Welcome [Wiki](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki) for helpful tips & tricks!__<br>
 The Wiki provides links to a list of resources to help you navigate through your Sprint experience in Github.
+
+:boom: __Deleted your repo? No problem!__<br>
+Click [here](https://support.github.com/contact) to get help from Github Support.
