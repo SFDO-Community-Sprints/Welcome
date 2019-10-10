@@ -4,7 +4,7 @@ What is a Github Scribe? A Github Scribe is a single member of a project team wh
 
 ## Past Project Work
 
-Before you complete the steps below be sure to take a look at the Project Work stemming from the Detroit Sprint! https://github.com/SFDO-Sprint-2019-Detroit If your team is interested in supporting any of the project work you see there please let a Salesforce.org member know so we can get your access setup.
+Before you complete the steps below be sure to take a look at the Project Work stemming from the Detroit Sprint! __https://github.com/SFDO-Sprint-2019-Detroit__ If your team is interested in supporting any of the project work you see there please let a Salesforce.org member know so we can get your access setup.
 
 ## Scribes: Please complete the following steps for your Team project
 
@@ -31,7 +31,7 @@ Before you complete the steps below be sure to take a look at the Project Work s
 ### Step 2: Update your Repository README file using our Project README template
 > A README is the start of your projects documentation on GitHub. Documenting any open source project should always begin with a good README so that potential users can understand what your work is about.
 
-1. Navigate to the [Project README template](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki/Project-README.md-file-template)
+1. Navigate to the __[Project README template](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki/Project-README.md-file-template)__
 2. Click the Edit button and copy the template
 3. Navigate to your projects README.md file
 4. Click the pencil icon to edit the README.md file and paste the template in
@@ -69,4 +69,4 @@ Every GitHub repository comes equipped with a section for hosting documentation,
 The Wiki provides links to a list of resources to help you navigate through your Sprint experience in Github.
 
 :boom: __Deleted your repo? No problem!__<br>
-Click [here](https://support.github.com/contact) to get help from Github Support.
+Click __[here](https://support.github.com/contact)__ to get help from Github Support.
