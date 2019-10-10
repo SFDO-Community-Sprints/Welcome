@@ -51,8 +51,7 @@ Before you complete the steps below be sure to take a look at the Project Work s
 > __Here is an Example:__<br>
 > Wiki Images Directory <br>
 > Created a Documentation directory to store images for the wiki
-5. Ensure Commit directly to the master branch = true
-6. Click Commit new file
+5. Commit Changes when done
 ***
 
 ### Step 4: Review Best Practices
