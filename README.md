@@ -33,8 +33,8 @@ Before you complete the steps below be sure to take a look at the Project Work s
 
 1. Navigate to the [Project README template](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki/Project-README.md-file-template)
 2. Click the Edit button and copy the template
-3. Navigate to your README.md file in your project repo
-4. Click the pencil icon to edit the README and paste the template in
+3. Navigate to your projects README.md file
+4. Click the pencil icon to edit the README.md file and paste the template in
 5. Commit Changes when done
 
 ***
