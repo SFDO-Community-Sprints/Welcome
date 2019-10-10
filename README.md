@@ -17,7 +17,7 @@ Before you complete the steps below be sure to take a look at the Project Work s
 ### Step 1: Create your project Repository
 > A project repository is your Sprint projects' home. It's a place where all of your project files (documentation, user-stories, code, etc.) will live so that others in the open source community (including Salesforce.org) can have open access to all your work in order to track progress. A repository has the added benefit of allowing future contributors to continue the work started at this Sprint.
 
-1. Navigate to __https://github.com/SFDO-Sprint-2019-Philadelphia__ (right click this URL and open a new page)
+1. Navigate to __https://github.com/SFDO-Sprint-2019-Philadelphia__
 2. Click the New button (Green button)
 3. From the Create a new repository page fill in the requested information
 
