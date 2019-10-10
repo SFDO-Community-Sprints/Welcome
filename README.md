@@ -28,17 +28,14 @@ Before you complete the steps below be sure to take a look at the Project Work s
 4. Click the Create Repository button<br>
 
 
-### Step 2: Update your Repository README file using our [Project README template](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki/Project-README.md-file-template)
+### Step 2: Update your Repository README file using our Project README template
 > A README is the start of your projects documentation on GitHub. Documenting any open source project should always begin with a good README so that potential users can understand what your work is about.
 
-After you copy and paste the template into your Project's README.md file be sure to do the following:
-
-1. Add a message in the *Commit changes* section at the bottom of the README.md file
-> __Here is an Example:__<br>
-> Update README.md <br>
-> Updated the README.md file using the Project README template
-2. Ensure Commit directly to the master branch = true
-3. Click Commit new file
+1. Navigate to the [Project README template](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki/Project-README.md-file-template)
+2. Click the Edit button and copy the template
+3. Navigate to your README.md file in your project repo
+4. Click the pencil icon to edit the README and paste the template in
+5. Commit Changes when done
 
 ***
 
