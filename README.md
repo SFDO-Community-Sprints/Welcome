@@ -42,7 +42,7 @@ Before you complete the steps below be sure to take a look at the Project Work s
 ### Step 3: Review Best Practices:
 
 :eyes: __Watch your Project's repo!__ <br>
-Watching your projects repository allows you to receive notifications for new pull requests and issues that are created. Click [here](https://help.github.com/en/articles/watching-and-unwatching-repositories#watching-a-single-repository) to learn more!
+Watching your projects repository allows you to receive notifications for new pull requests and issues that are created. Click __[here](https://help.github.com/en/articles/watching-and-unwatching-repositories#watching-a-single-repository)__ to learn more!
 
 :point_right: __Your Project's README file needs to be kept up to date both during and after the Sprint so that we know what you worked on in Philly, and who was on the team.__<br> 
 Doing so ensures that anyone reviewing your project repositiory (during or after the Sprint) understands the current state of your project which supports trust, transparency, and collaboration from the open source community. Review our __[Sample README file](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki/Sample-Sprint-Project-README.md-file)__ as a reference.
