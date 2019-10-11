@@ -9,7 +9,7 @@ Before you complete the steps below be sure to take a look at the Project Work s
 ## Scribes: Please complete the following steps for your Team project to create a beautiful, organized home for all your work:
 
 - [Step 1: Create your project Repository](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-1-create-your-project-repository)
-- [Step 2: Update your project README file using our Project README template](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-2-update-your-project-readme-file-using-our-project-readme-template)
+- [Step 2: Update your projects README file using our template](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-2-update-your-projects-readme-file-using-our-template)
 - [Step 3: Review Best Practices](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-3-review-best-practices)
 - [Optional: Create a Directory folder in your project Repository in support of Wiki images](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#optional-create-a-directory-folder-in-your-project-repository-in-support-of-wiki-images)
 
