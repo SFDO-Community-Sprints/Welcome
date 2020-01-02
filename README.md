@@ -19,7 +19,7 @@ What is a Github Scribe? A Github Scribe is a single member of a project team wh
 
 > __Here is an Example:__<br><br>
 
-![Image of Philly Repo.jpg](https://github.com/SFDO-Community-Sprints/Welcome/blob/master/images/PhillyRepo.jpg)
+![Image of Philly Repo.jpg](https://github.com/SFDO-Community-Sprints/Welcome/blob/master/images/NewRepo.jpg)
 
 4. Click the Create Repository button<br>
 
