@@ -1,6 +1,6 @@
 # Welcome Github Scribes!
 
-What is a Github Scribe? A Github Scribe is a single member of a project team who will be responsible for creating your projects Github repository for the Philadelphia Sprint. The Scribe will also be responsible for keeping the project repository up-to-date for the duration of the Sprint. We will jump into the selection of Scribes before Lunch on Day 1 of the Sprint so for now there is no action you need to take.
+What is a Github Scribe? A Github Scribe is a single member of a project team who will be responsible for creating your projects Github repository during the Sprint. The Scribe will also be responsible for keeping the project repository up-to-date for the duration of the Sprint. We will jump into the selection of Scribes before Lunch on Day 1 of the Sprint so for now there is no action you need to take.
 
 ## Scribes: Please complete the following steps for your Team project to create a beautiful, organized home for all your work:
 
