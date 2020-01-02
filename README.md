@@ -2,28 +2,24 @@
 
 What is a Github Scribe? A Github Scribe is a single member of a project team who will be responsible for creating your projects Github repository for the Philadelphia Sprint. The Scribe will also be responsible for keeping the project repository up-to-date for the duration of the Sprint. We will jump into the selection of Scribes before Lunch on Day 1 of the Sprint so for now there is no action you need to take.
 
-## Past Project Work
-
-Before you complete the steps below be sure to take a look at the Project Work stemming from the Detroit Sprint! __https://github.com/SFDO-Sprint-2019-Detroit__ If your team has decided to continue any of the project work you see there please let a Salesforce.org member know so we can get your access set up and help you create a copy of the Detroit repo in the Philly org.
-
 ## Scribes: Please complete the following steps for your Team project to create a beautiful, organized home for all your work:
 
-- [Step 1: Create your project Repository](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-1-create-your-project-repository)
-- [Step 2: Update your projects README file using our template](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-2-update-your-projects-readme-file-using-our-template)
-- [Step 3: Review Best Practices](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#step-3-review-best-practices)
-- [Optional: Create a Directory folder in your project Repository in support of Wiki images](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome#optional-create-a-directory-folder-in-your-project-repository-in-support-of-wiki-images)
+- [Step 1: Create your project Repository](https://github.com/SFDO-Community-Sprints/Welcome#step-1-create-your-project-repository)
+- [Step 2: Update your projects README file using our template](https://github.com/SFDO-Community-Sprints/Welcome#step-2-update-your-projects-readme-file-using-our-template)
+- [Step 3: Review Best Practices](https://github.com/SFDO-Community-Sprints/Welcome#step-3-review-best-practices)
+- [Optional: Create a Directory folder in your project Repository in support of Wiki images](https://github.com/SFDO-Community-Sprints/Welcome#optional-create-a-directory-folder-in-your-project-repository-in-support-of-wiki-images)
 
 
 ### Step 1: Create your project Repository:
 > A project repository is your Sprint projects' home. It's a place where all of your project files (documentation, user-stories, code, etc.) will live so that others in the open source community (including Salesforce.org) can have open access to all your work in order to track progress. A repository has the added benefit of allowing future contributors to continue the work started at this Sprint.
 
-1. Navigate to __https://github.com/SFDO-Sprint-2019-Philadelphia__
+1. Navigate to __https://github.com/SFDO-Community-Sprints__
 2. Click the New button (Green button)
 3. From the Create a new repository page fill in the requested information
 
 > __Here is an Example:__<br><br>
 
-![Image of Philly Repo.jpg](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/blob/master/images/PhillyRepo.jpg)
+![Image of Philly Repo.jpg](https://github.com/SFDO-Community-Sprints/Welcome/blob/master/images/PhillyRepo.jpg)
 
 4. Click the Create Repository button<br>
 
@@ -31,7 +27,7 @@ Before you complete the steps below be sure to take a look at the Project Work s
 ### Step 2: Update your projects README file using our template:
 > A README is the start of your projects documentation on GitHub. Documenting any open source project should always begin with a good README so that potential users can understand what your work is about. It acts like the Home page for all projects.
 
-1. Navigate to the __[Project README template](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki/Project-README.md-file-template)__
+1. Navigate to the __[Project README template](https://github.com/SFDO-Community-Sprints/Welcome/wiki/Project-README.md-file-template)__
 2. Click the Edit button and copy the template
 3. Navigate to your projects README.md file
 4. Click the pencil icon to edit the README.md file and paste the template in
@@ -44,13 +40,13 @@ Before you complete the steps below be sure to take a look at the Project Work s
 :point_right: __We HIGHLY recommend that you and your project team Watch your Project's repo!__ <br>
 Watching your projects repository allows you to receive notifications for new pull requests and issues that are created. Please ensure all members of the project team complete this step. Click __[here](https://help.github.com/en/articles/watching-and-unwatching-repositories#watching-a-single-repository)__ to learn more!
 
-:point_right: __Your Project's README file needs to be kept up to date both during and after the Sprint so that we know what you worked on in Philly, and who was on the team.__<br> 
-Doing so ensures that anyone reviewing your project repositiory (during or after the Sprint) understands the current state of your project which supports trust, transparency, and collaboration from the open source community. Review our __[Sample README file](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki/Sample-Sprint-Project-README.md-file)__ as a reference.
+:point_right: __Your Project's README file needs to be kept up to date both during and after the Sprint so that we know what you worked on and who was on the team.__<br> 
+Doing so ensures that anyone reviewing your project repositiory (during or after the Sprint) understands the current state of your project which supports trust, transparency, and collaboration from the open source community. Review our __[Sample README file](https://github.com/SFDO-Community-Sprints/Welcome/wiki/Sample-Sprint-Project-README.md-file)__ as a reference.
 
 :point_right: __Use your project repository Wiki to store your project documentation__<br>
 Every GitHub repository comes equipped with a section for hosting documentation, called a wiki. You can use your repository's wiki to share long-form content about your project, such as how to use it, how you designed it, or its core principles. A README file quickly tells what your project can do, while you can use a wiki to provide additional documentation. Take a look at Github's __[About wikis page](https://help.github.com/en/articles/about-wikis)__ for more information.
 
-:point_right: __Use the Welcome [Wiki](https://github.com/SFDO-Sprint-2019-Philadelphia/Welcome/wiki) for helpful tips & tricks!__<br>
+:point_right: __Use the Welcome [Wiki](https://github.com/SFDO-Community-Sprints/Welcome/wiki) for helpful tips & tricks!__<br>
 The Wiki provides links to a list of resources to help you navigate through your Sprint experience in Github.
 
 :point_right: __Markdown is your friend for text style formatting__<br>
