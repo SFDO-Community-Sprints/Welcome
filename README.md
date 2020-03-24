@@ -54,7 +54,7 @@ Every GitHub repository comes equipped with a section for hosting documentation,
 The Wiki provides links to a list of resources to help you navigate through your Sprint experience in Github.
 
 :point_right: __Markdown is your friend for text style formatting__<br>
-When editing your README.md file (or any file that ends with .md or .markdown) you will be using Markdown language. Be sure to access the __[Mastering Markdown Github guide](https://guides.github.com/features/mastering-markdown/)__ to help you understand the different formatting options that are available.
+When editing your README.md file (or any file that ends with .md or .markdown) you will be using Markdown language. Be sure to access the __[Mastering Markdown Github guide](https://guides.github.com/features/mastering-markdown/)__ to help you understand the different formatting options that are available. If you don't feel comfortable using Markdown feel free to use the __[Docs to Markdown Chrome Extension](https://salesforce.quip.com/XgDxA7wt7nN8)__.
 
 :boom: __Accidentily deleted your repo? No problem!__<br>
 Click __[here](https://support.github.com/contact)__ to get help from Github Support.
