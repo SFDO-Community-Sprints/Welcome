@@ -1,4 +1,4 @@
-# Important for our March 2020 Virtual Sprinters!
+# Important for our Virtual Sprinters!
 
 Jace has gone ahead and created Project Repo's where they didn't already exist, and taken care of Steps 1 and 2 below. So unless you have gone rogue and your project doesn't already exist please do not take action for Steps 1 and 2 below. :)
 For those Project Teams where the Repo already exists, please focus on Step 3 and keep your README file updated during the Virtual Sprint. Thank you!
