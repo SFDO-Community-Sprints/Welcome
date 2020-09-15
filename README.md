@@ -1,8 +1,8 @@
 # Welcome Github Scribes & Development Contributors!
 
-**What is a Github Scribe?** A Github Scribe is a single member of a project team responsible for keeping the project repository up-to-date for the duration of the Sprint. Your Project Team Leaders will identify a Scribe on Day 1 of the Sprint.
+**What is a Github Scribe?** A Github Scribe is a single member of a project team responsible for keeping the project repository up-to-date for the duration of the Sprint. Project Maintainers will identify a Scribe on Day 1 of the Sprint.
 
-**What is a Development Contributor?** A Development Contributor is any member of a project team responsible for active development for the duration of the Sprint. Your Project Team Leaders will identify Development Contributors on Day 1 of the Sprint.
+**What is a Development Contributor?** A Development Contributor is any member of a project team responsible for active development for the duration of the Sprint. Project Maintainers will identify Development Contributors on Day 1 of the Sprint.
 
 If you've been identified as a Github Scribe OR a Development Contributor please follow [these steps](https://salesforce.quip.com/IxfrAoa4wTpX#edIACAY2KZF) to request Write access.
 
