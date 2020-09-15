@@ -6,7 +6,7 @@
 
 If you've been identified as a Github Scribe OR a Development Contributor please follow [these steps](https://salesforce.quip.com/IxfrAoa4wTpX#edIACAY2KZF) to request Write access.
 
-Project Maintainers - please follow [these steps](https://salesforce.quip.com/IxfrAoa4wTpX#edIACASSB22) to grant Write access.
+**Project Maintainers** - please follow [these steps](https://salesforce.quip.com/IxfrAoa4wTpX#edIACASSB22) to grant Write access.
 
 
 ## Github Scribes ONLY
