@@ -3,6 +3,8 @@
 Jace has gone ahead and created Project Repo's where they didn't already exist, and taken care of Steps 1 and 2 below. So unless you have gone rogue and your project doesn't already exist please do not take action for Steps 1 and 2 below. :)
 For those Project Teams where the Repo already exists, please focus on Step 3 and keep your README file updated during the Virtual Sprint. Thank you!
 
+One last reminder: In order to participate in a Salesforce.org Open Source Community Sprint you will need access to the Power of US Hub. If you don't have access [please click here](https://github.com/SFDO-Community-Sprints/Welcome/wiki/Request-Access-to-the-Power-of-US-Hub).
+
 # Welcome Github Scribes!
 
 What is a Github Scribe? A Github Scribe is a single member of a project team who will be responsible for creating your projects Github repository during the Sprint. The Scribe will also be responsible for keeping the project repository up-to-date for the duration of the Sprint. We will jump into the selection of Scribes before Lunch on Day 1 of the Sprint so for now there is no action you need to take.
