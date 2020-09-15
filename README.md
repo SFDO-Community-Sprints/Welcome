@@ -1,48 +1,17 @@
-# Important for our Virtual Sprinters!
+# Welcome Github Scribes & Development Contributors!
 
-Jace has gone ahead and created Project Repo's where they didn't already exist, and taken care of Steps 1 and 2 below. So unless you have gone rogue and your project doesn't already exist please do not take action for Steps 1 and 2 below. :)
-For those Project Teams where the Repo already exists, please focus on Step 3 and keep your README file updated during the Virtual Sprint. Thank you!
+**What is a Github Scribe?** A Github Scribe is a single member of a project team responsible for keeping the project repository up-to-date for the duration of the Sprint. Your Project Team Leaders will identify Scribes on Day 1 of the Sprint.
 
-One last reminder: In order to participate in a Salesforce.org Open Source Community Sprint you will need access to the Power of US Hub. If you don't have access [please click here](https://github.com/SFDO-Community-Sprints/Welcome/wiki/Request-Access-to-the-Power-of-US-Hub).
+**What is a Development Contributor?** A Development Contributor is any member of a project team responsible for active development for the duration of the Sprint. Your Project Team Leaders will identify Development Contributors on Day 1 of the Sprint.
 
-# Welcome Github Scribes!
+If you've been identified as a Github Scribe OR a Development Contributor please follow [these steps](https://salesforce.quip.com/IxfrAoa4wTpX#edIACAY2KZF) to request Write access.
 
-What is a Github Scribe? A Github Scribe is a single member of a project team responsible for keeping the project repository up-to-date for the duration of the Sprint. Your Project Team Leaders will identify Scribes on Day 1 of the Sprint.
-
-## Scribes: Please complete the following steps for your Team project to create a beautiful, organized home for all your work:
-
-- [Step 1: Create your project Repository](https://github.com/SFDO-Community-Sprints/Welcome#step-1-create-your-project-repository)
-- [Step 2: Update your projects README file using our template](https://github.com/SFDO-Community-Sprints/Welcome#step-2-update-your-projects-readme-file-using-our-template)
-- [Step 3: Review Best Practices](https://github.com/SFDO-Community-Sprints/Welcome#step-3-review-best-practices)
-- [Optional: Create a Directory folder in your project Repository in support of Wiki images](https://github.com/SFDO-Community-Sprints/Welcome#optional-create-a-directory-folder-in-your-project-repository-in-support-of-wiki-images)
+Project Maintainers - please follow [these steps](https://salesforce.quip.com/IxfrAoa4wTpX#edIACASSB22) to grant Write access.
 
 
-### Step 1: Create your project Repository with a README.md File:
-> A project repository is your Sprint projects' home. It's a place where all of your project files (documentation, user-stories, code, etc.) will live so that others in the open source community (including Salesforce.org) can have open access to all your work in order to track progress. A repository has the added benefit of allowing future contributors to continue the work started at this Sprint.
+## Github Scribes ONLY
 
-1. Navigate to __https://github.com/SFDO-Community-Sprints__
-2. Click the New button (Green button)
-3. From the Create a new repository page fill in the requested information (be sure to select the "Initilize with a README.md file)
-
-> __Here is an Example:__<br><br>
-
-![Image of Philly Repo.jpg](https://github.com/SFDO-Community-Sprints/Welcome/blob/master/images/NewRepo.png)
-
-4. Click the Create Repository button<br>
-
-
-### Step 2: Update your projects new README file to use our template:
-> A README is the start of your projects documentation on GitHub. Documenting any open source project should always begin with a good README so that potential users can understand what your work is about. It acts like the Home page for all projects.
-
-1. Navigate to the __[Project README template](https://github.com/SFDO-Community-Sprints/Welcome/wiki/Project-README.md-file-template)__
-2. Click the Edit button and copy the template
-3. Navigate to your projects README.md file
-4. Click the pencil icon to edit the README.md file and paste the template in
-5. Commit Changes when done
-
-***
-
-### Step 3: Review Best Practices AND Keep your README file Updated during the Sprint:
+Please review each Best Practice listed below to ensure you understand your role during the Sprint.
 
 :point_right: __We HIGHLY recommend that you and your project team Watch your Project's repo!__ <br>
 Watching your projects repository allows you to receive notifications for new pull requests and issues that are created. Please ensure all members of the project team complete this step. Click __[here](https://help.github.com/en/articles/watching-and-unwatching-repositories#watching-a-single-repository)__ to learn more!
