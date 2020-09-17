@@ -1,10 +1,12 @@
-# Welcome Github Scribes & Development Contributors!
+# Welcome Github Scribes, Metecho Users & Development Contributors!
 
-**What is a Github Scribe?** A Github Scribe is a single member of a project team responsible for keeping the project repository up-to-date for the duration of the Sprint. Project Maintainers will identify a Scribe on Day 1 of the Sprint.
+**What is a Github Scribe?** A Github Scribe is a single member of a project team responsible for keeping the project repository up-to-date for the duration of the Sprint (i.e. someone who will be creating or editing the Readme or Wiki pages). Project Maintainers will identify a Scribe on Day 1 of the Sprint.
+
+**What is a Metecho User?** A Metecho User is any member of a project team responsible for spinning up a scratch org that has a project team's app already installed. Project Maintainers will identify Metecho Users on Day 1 of the Sprint.
 
 **What is a Development Contributor?** A Development Contributor is any member of a project team responsible for active development for the duration of the Sprint. Project Maintainers will identify Development Contributors on Day 1 of the Sprint.
 
-If you've been identified as a Github Scribe OR a Development Contributor please follow [these steps](https://salesforce.quip.com/IxfrAoa4wTpX#edIACAY2KZF) to request Write access.
+If you've been identified as a Github Scribe, Metecho User, OR a Development Contributor please follow [these steps](https://salesforce.quip.com/IxfrAoa4wTpX#edIACAY2KZF) to request Write access.
 
 **Project Maintainers** - please follow [these steps](https://salesforce.quip.com/IxfrAoa4wTpX#edIACASSB22) to grant Write access.
 
